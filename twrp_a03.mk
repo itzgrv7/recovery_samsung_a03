@@ -18,11 +18,3 @@ PRODUCT_NAME := twrp_a03
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A035F
 PRODUCT_MANUFACTURER := samsung
-
-
-
-
-
-
-
-
